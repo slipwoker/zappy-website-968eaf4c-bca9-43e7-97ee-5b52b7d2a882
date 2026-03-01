@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover authentic handmade ceramics crafted with passion in our boutique studio. Each piece tells a story. Pre-order your unique pottery today.
+
+### Studio
+https://example.com/studio
+Step into a working ceramic studio where art comes to life. Experience the authentic atmosphere of a boutique pottery workspace and creative process.
+
+### Works
+https://example.com/works
+Browse exclusive handcrafted ceramic pieces designed for collectors. Each artwork is made with care and available through our personal pre-order system.
+
+### Contact
+https://example.com/contact
+Join our community of ceramic enthusiasts. Reserve your handcrafted piece through our fair pickup model and experience personal artist connection.
+
+### Products
+https://example.com/products
+Our Products - Tali Ceramics
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Tali Ceramics
+
+### Category
+https://example.com/category/:slug
+Products - Tali Ceramics
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
